@@ -10,3 +10,6 @@ If EC2 instance is being created, terraform does not wait until status check com
 
 `terraform destroy --auto-approve`
 
+`terraform state list`
+
+`terraform workspace list`
