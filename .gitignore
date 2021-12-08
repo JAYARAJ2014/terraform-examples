@@ -4,3 +4,5 @@ secrets/*
 000_getting_started/.terraform/providers/registry.terraform.io/hashicorp/aws/3.68.0/linux_amd64/terraform-provider-aws_v3.68.0_x5
 *.tfstate
 000_getting_started/terraform.tfstate.backup
+010_provisioners/.terraform/providers/registry.terraform.io/hashicorp/aws/3.68.0/linux_amd64/terraform-provider-aws_v3.68.0_x5
+010_provisioners/.terraform/providers/registry.terraform.io/hashicorp/template/2.2.0/linux_amd64/terraform-provider-template_v2.2.0_x4
